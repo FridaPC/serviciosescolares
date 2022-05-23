@@ -5,17 +5,41 @@
 <body>
    <header class="header">
       <nav class="nav">
-      <a class="menu"href="#menu">Menú</a>
+      <a class="menu"href="#menu">(LOGO)</a>
       <button class="toggle-button">
         <i class="fa-solid fa-bars"></i>
       </button>
       <ul class:"nav-menu">
       
-       <li class="link-menu-item"><a href="#vin1" class="nav-menu-link">Servicios administrativos</a></li>
-        <li class="link-menu-item"><a href="#vin2" class="nav-menu-link">Servicios escolares</a></li>  
-        <li class="link-menu-item"><a href="#vin3" class="nav-menu-link">Contacto</a></li>
+       <li class="link-menu-item"><a href="#" class="nav-menu-link">Servicios administrativos</a></li>
+        <li class="link-menu-item"><a href="#" class="nav-menu-link">Servicios escolares</a></li>  
+        <li class="link-menu-item"><a href="#" class="nav-menu-link">Contacto</a></li>
         <li class="link-menu-item"><a href="#vin4">Inicia sesión</a></li>
      </ul>
     </nav>
   </header>
+  
+  <h1>universidad autónoma benito juárez de oaxaca</h1>
+      <section class="diseno">
+        <div class="contenido">
+          <h2>SERVICIOS ESCOLARES Y ADMINISTRATIVOS DE LA FACULTAD DE DERECHO UABJO</h2>
+          <p>Para más información revise <a href="#">http://uabjo.com.mx</a></p>
+          
+          <section class="diseno-item">
+            <img src="https://cuadernosdeseguridad.com/wp-content/uploads/2017/12/universidad.jpg" alt="salon de clases">
+            <h2>atención virtual</h2>
+            <p>Recibe la mejor atención desde la comodidad de tu casa</p>
+            <a class="btn" href="#">Ir a servicios administrativos</a>
+            <a class="btn" href="#">Ir a servicios escolares</a>
+          </section>
+
+          <section class="diseno-item">
+            <img src="https://transparencia.org.ve/wp-content/uploads/2016/06/website_.jpg" alt="laptop">
+            <h2>Accede a tu perfil</h2>
+            <p>Inicia sesión con tu usuario y contraseña proporcionados por la institución</p>
+            <a class="btn" href="#">Iniciar sesión</a>
+          </section>
+          </section>
+        </div>
+      </section>
  </body>
