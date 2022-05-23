@@ -1,10 +1,13 @@
- .pantalla{
+.pantalla{
     width:100%;
-    margin:0 auto;
+    margin: auto;
+    
   }
   body {
-    padding: 90 px 20 px 0;
+    padding: 90 px 60 px 0;
     font-family: 'Bebas Neue';
+    padding-top:110px;
+    text-align:center;
   }
 
   
@@ -70,6 +73,20 @@
     display:none;
   
   }
+
+.diseno .btn {
+  color: #F7FFF7;
+  background: #2F3061;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+  
+  
+}
+.diseno {
+  background: rgb(243, 250, 250);
+}
   .contenido {
     width: 100%;
     min-height: 300px;
@@ -80,3 +97,22 @@
   .images{
     width:100%;
   }
+
+  h1{
+    font-size:40px;
+    color:darkblue;
+   
+  }
+
+  .diseno-item {
+  overflow: hidden;
+  border-bottom: 1px ;
+  padding: 25px 0;
+}
+.diseno-item img {
+  margin-right: 20px;
+}
+.diseno-item h3 {
+  margin-top: 0;
+}
+  
